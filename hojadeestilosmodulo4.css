@@ -1,0 +1,22 @@
+body {
+    background-color: darkseagreen;
+}
+.logo {
+    width: 300px;
+    
+}
+
+.cards {
+    border: 2px solid black;
+    width: fit-content;
+    padding: 1em 1em 1em 1em;
+    border-radius: 9%;
+    transition: 1s;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.cards:hover{
+    background-color: aqua;
+}
