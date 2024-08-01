@@ -1,0 +1,22 @@
+body{
+    background-color: blanchedalmond;
+}
+
+img{
+    width: 200px;
+    height: 240px;
+    border-radius: 8px;
+}
+.text{
+    color:firebrick;
+}
+
+.photos{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+.aligntitle{
+    margin: 1%;
+}
+
