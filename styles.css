@@ -1,0 +1,36 @@
+.seccion1letra{
+    font-family: "Times New Roman", Times, serif;
+    width: 700px;
+    background-color: grey;
+    padding: 30px;
+}
+.seccion2letra{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 700px;
+    background-color: grey;
+    padding: 30px;
+}
+.seccion3letra{
+    font-family: "Lucida Console", "Courier New", monospace;
+    width: 700px;
+    background-color: grey;
+    padding: 30px;
+}
+.seccion4letra{
+    font-family: sans-serif;
+    width: 700px;
+    background-color: grey;
+    padding: 30px;
+}
+.seccion5letra{
+    font-family: sans-serif;
+    width: 700px;
+    background-color: grey;
+    padding: 30px;
+}
+.seccion6letra{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 700px;
+    background-color: grey;
+    padding: 30px;
+}
